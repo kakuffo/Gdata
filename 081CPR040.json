@@ -1,0 +1,212 @@
+[
+  {
+    "Year":"2007",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"218.727058146613",
+    "Flag":""
+  },
+  {
+    "Year":"2006",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"212.353522868846",
+    "Flag":""
+  },
+  {
+    "Year":"2006",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"193.153392210208",
+    "Flag":""
+  },
+  {
+    "Year":"2006",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"203.730744190052",
+    "Flag":""
+  },
+  {
+    "Year":"2005",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"192.833409035227",
+    "Flag":""
+  },
+  {
+    "Year":"2005",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"182.227759847003",
+    "Flag":""
+  },
+  {
+    "Year":"2005",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"188.070411984795",
+    "Flag":""
+  },
+  {
+    "Year":"2004",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"154.979589650269",
+    "Flag":""
+  },
+  {
+    "Year":"2004",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"151.08345",
+    "Flag":""
+  },
+  {
+    "Year":"2004",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"153.229833333333",
+    "Flag":""
+  },
+  {
+    "Year":"2003",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"131.139964414292",
+    "Flag":""
+  },
+  {
+    "Year":"2003",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"128.254791666667",
+    "Flag":""
+  },
+  {
+    "Year":"2003",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"129.844233333333",
+    "Flag":""
+  },
+  {
+    "Year":"2012",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"466.117241298162",
+    "Flag":""
+  },
+  {
+    "Year":"2011",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"303.5608302482",
+    "Flag":""
+  },
+  {
+    "Year":"2011",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"416.60141641168",
+    "Flag":""
+  },
+  {
+    "Year":"2012",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"399.356260531656",
+    "Flag":""
+  },
+  {
+    "Year":"2012",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"317.405250799001",
+    "Flag":""
+  },
+  {
+    "Year":"2010",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"336.476225929473",
+    "Flag":""
+  },
+  {
+    "Year":"2010",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"291.803409063327",
+    "Flag":""
+  },
+  {
+    "Year":"2010",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"372.894018731409",
+    "Flag":""
+  },
+  {
+    "Year":"2011",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"365.83505137046",
+    "Flag":""
+  },
+  {
+    "Year":"2008",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"268.811658481592",
+    "Flag":""
+  },
+  {
+    "Year":"2009",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"303.928801989361",
+    "Flag":""
+  },
+  {
+    "Year":"2009",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"275.047492639585",
+    "Flag":""
+  },
+  {
+    "Year":"2009",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"327.473176701621",
+    "Flag":""
+  },
+  {
+    "Year":"2007",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"206.454162065716",
+    "Flag":""
+  },
+  {
+    "Year":"2007",
+    "commodity (code)":"10022",
+    "commodity":"Non-Food",
+    "Value":"228.732063828101",
+    "Flag":""
+  },
+  {
+    "Year":"2008",
+    "commodity (code)":"10033",
+    "commodity":"Total",
+    "Value":"254.865142922834",
+    "Flag":""
+  },
+  {
+    "Year":"2008",
+    "commodity (code)":"10021",
+    "commodity":"Food",
+    "Value":"237.757292953295",
+    "Flag":""
+  }
+]
